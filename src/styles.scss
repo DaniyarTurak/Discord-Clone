@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "custom-styles/reset";
+@import "custom-styles/variables";
+
+@import "custom-styles/colors";
+
+@import "custom-styles/breakpoints";
+
+@import "custom-styles/grid";
+@import "custom-styles/utilities";
